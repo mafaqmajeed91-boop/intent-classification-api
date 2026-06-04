@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-scikit-learn==1.6.1
+flask
+gunicorn
+scikit-learn
 numpy
 pandas
 joblib
-gunicorn
